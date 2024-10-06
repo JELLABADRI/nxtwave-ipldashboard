@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.row {
+  display: flex;
+}
+.spb{
+  justify-content: space-between;
+}
